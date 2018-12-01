@@ -107,13 +107,14 @@
 
 
         </div>
-        <div class="footer">
         <iframe
 allow="microphone;"
 width="350"
 height="430"
- src="https://console.dialogflow.com/api-client/demo/embedded/cbe5f58e-edc2-4d66-8b88-ff4b06b82dc2">
+align="right"
+bottom="10px"
+  src="https://console.dialogflow.com/api-client/demo/embedded/cbe5f58e-edc2-4d66-8b88-ff4b06b82dc2">
 </iframe>
-</div>
+
     </body>
 </html>
