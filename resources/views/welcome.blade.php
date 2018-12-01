@@ -112,7 +112,6 @@
 allow="microphone;"
 width="350"
 height="430"
-src="https://console.dialogflow.com/api-client/demo/embedded/de102d5f-de56-488e-bf0e-04bb15162fb2">
 </iframe>
 </div>
     </body>
